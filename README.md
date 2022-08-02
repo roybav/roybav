@@ -7,5 +7,15 @@
 [![Facebook Icon Resized](https://user-images.githubusercontent.com/92230953/182453376-c7c29d00-381f-491e-be48-1621df1fb166.png)][1]
 [![LinkedIn_logo_resized](https://user-images.githubusercontent.com/92230953/182453784-def026a3-bc76-43b7-bb69-7d9d246bc7f2.png)][2]
 
+- Languages and Tools:
+
+![python logo resized](https://user-images.githubusercontent.com/92230953/182455091-27651e7d-d982-493e-bf23-b45a8b6b55c8.jpeg)
+![MATLAB logo resized](https://user-images.githubusercontent.com/92230953/182455253-c6095fb0-d8dc-4558-8f53-070ecd24703b.jpg)
+
+![java-logo resized](https://user-images.githubusercontent.com/92230953/182455519-68bf19b9-d44a-440d-a768-2f1d2d9c7e1e.png)
+![Microsoft_Excel-Logo resized](https://user-images.githubusercontent.com/92230953/182455740-100cdddf-cb7b-4227-849c-483fcf9548c9.png)
+
+![sql logo resized](https://user-images.githubusercontent.com/92230953/182456069-ebdb5b02-27e3-43f5-ae90-e934b3d74d95.jpg)
+
 [1]: https://www.facebook.com/roy.bavly
 [2]: https://www.linkedin.com/in/roy-bavly-2ba428100
